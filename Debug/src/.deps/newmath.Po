@@ -1,0 +1,4 @@
+newmath.o: /home/avishek/iris/src/newmath.cpp \
+ /home/avishek/iris/src/newmath.h
+
+/home/avishek/iris/src/newmath.h:

@@ -1,0 +1,4 @@
+SequenceAnalyser.o: /home/avishek/iris/src/SequenceAnalyser.cpp \
+ /home/avishek/iris/src/SequenceAnalyser.h
+
+/home/avishek/iris/src/SequenceAnalyser.h:
